@@ -38,7 +38,7 @@ Android-developer
 ## Additional/Automatization tools
 - Git
 - Jira
-- Redmain
+- Redmine
 
 ## Languages
 
