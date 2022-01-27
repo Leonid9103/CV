@@ -16,7 +16,6 @@ Android-developer
     - Firebase Analytics
     - Google Analytics
     - Yandex Metrica
-    - Firebase Cloud Messaging
 - Networking
     - OkHttp
     - Retrofit
@@ -34,6 +33,7 @@ Android-developer
     - Moxy
     - SocketIO
     - ArCore
+    - Firebase Cloud Messaging
  
 ## Additional/Automatization tools
 - Git
