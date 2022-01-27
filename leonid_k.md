@@ -4,30 +4,41 @@ Android-developer
 
 ## Technologies
 
-
-### Languages: 
-
-* Kotlin
-* Java
-
-### Android
-
-* Android SDK
-* OkHttp, Retrofit
-* Koin, Dagger 2
-* RxJava, RxAndroid
-* Picasso, Glide
-* Android Architecture Components(LiveData, ViewModel, Navigation Component)
-* Room
-* ArCore
-* SocketIO
-* Cicerone
-* Moxy
-* kotlin coroutines
-
-### Additional/Automatization tools
-
-* Git
+- Programming languages
+    - Java
+    - Kotlin
+- ORM 
+    - Room
+- DI
+    - Dagger2
+    - Koin
+- Analytics and app growth
+    - Firebase Analytics
+    - Google Analytics
+    - Yandex Metrica
+    - Firebase Cloud Messaging
+- Networking
+    - OkHttp
+    - Retrofit
+- Other services and tools
+    - Android SDK
+    - Gson
+    - JetPack LiveData
+    - JetPack ViewModel
+    - JetPack Navigation Component
+    - Glide
+    - Picasso
+    - RxJava2 and RXAndroid
+    - Kotlin Coroutines
+    - Cicerone
+    - Moxy
+    - SocketIO
+    - ArCore
+ 
+## Additional/Automatization tools
+- Git
+- Jira
+- Redmain
 
 ## Languages
 
@@ -146,3 +157,4 @@ Java, MVP, Android Architecture Components, Gson, Retrofit, Okhttp, Cicerone, Mo
 ## Education
 
 Kalashnikov Izhevsk State Technical University, bachelor degree
+
